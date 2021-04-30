@@ -7,6 +7,6 @@ elsif array.length == 2
    array.insert(-2, "and")
    array.join(" ")
 else
-  array.to_s
+  array.join
 end
 end
