@@ -5,5 +5,4 @@ end
 if array.length > 3
   array.join(", ")
 end
-array
 end
